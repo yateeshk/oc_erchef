@@ -23,7 +23,7 @@
                         "7677c240f4a7ed020f4bab48278224966bb42311"}},
        {opscoderl_wm,".*",
                      {git,"https://github.com/opscode/opscoderl_wm",
-                          "a236acddfd987df4ad9cc785640330fa89a51774"}},
+                          "5336f57fbeca42248d45da4caa18e575e2441206"}},
        {envy,".*",
              {git,"https://github.com/manderson26/envy",
                   "d62cb227b9000ee866c8bcc724ddf68d87621dea"}},
